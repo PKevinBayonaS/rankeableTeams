@@ -1,9 +1,9 @@
 # rankeableTeams
-Problem Statement & Instructions
+#Problem Statement & Instructions
 Read the problem statement, code a working solution (valid input and output will be provided)
 and supporting tests using a language of your choice. Be prepared to explain your solution
 during a review.
-The Problem
+**The Problem
 We want you to create a production ready, maintainable, testable command-line application that
 will calculate the ranking table for a league.
 Input/output
